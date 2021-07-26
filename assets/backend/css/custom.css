@@ -1,0 +1,9 @@
+#page-container.sidebar-inverse #sidebar {
+    color: #fff;
+    background-image: linear-gradient(150deg, #c63115, #B71C1C);
+    box-shadow: none;
+}
+
+#page-container.sidebar-inverse #sidebar .content-side-user {
+    background-color: #c63115;
+}

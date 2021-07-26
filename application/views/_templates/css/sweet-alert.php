@@ -1,0 +1,2 @@
+ 	<!-- <link rel="stylesheet" type="text/css" href="<?= base_url() ?>assets/app-assets/vendors/css/animate/animate.css"> -->
+    <link rel="stylesheet" type="text/css" href="<?= base_url()?>assets/backend/js/plugins/sweetalert2/sweetalert2.min.css">

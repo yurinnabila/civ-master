@@ -1,0 +1,1 @@
+	<script src="<?= base_url() ?>assets/backend/js/plugins/summernote/summernote-bs4.min.js"></script>

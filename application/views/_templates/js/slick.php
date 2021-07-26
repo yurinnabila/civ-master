@@ -1,0 +1,1 @@
+	<script src="<?= base_url() ?>assets/backend/js/plugins/slick/slick.min.js"></script> 

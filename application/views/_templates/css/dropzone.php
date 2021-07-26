@@ -1,0 +1,1 @@
+	<link rel="stylesheet" href="<?= base_url() ?>assets/backend/js/plugins/dropzonejs/min/dropzone.min.css">

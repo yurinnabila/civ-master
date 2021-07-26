@@ -1,0 +1,1 @@
+	<script src="<?= base_url()?>assets/backend/js/plugins/sweetalert2/sweetalert2.all.min.js"></script>
